@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this chapter's companion code, please cite it using this metadata."
+title: "Companion code for Chapter 8: Stable neural networks and connections to continuous dynamical systems"
+type: software
+authors:
+  - family-names: Ehrhardt
+    given-names: Matthias J.
+  - family-names: Murari
+    given-names: Davide
+  - family-names: Sherry
+    given-names: Ferdia
+repository-code: "https://github.com/searhein/smooth-sciml"
+license: GPL-3.0-only

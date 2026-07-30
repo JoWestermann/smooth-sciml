@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this companion code, please cite the edited volume and this repository."
+title: "Companion code for A Smooth Introduction to Scientific Machine Learning"
+type: software
+authors:
+  - family-names: Dolean
+    given-names: Victorita
+    orcid: "https://orcid.org/0000-0002-5885-1903"
+  - family-names: Heinlein
+    given-names: Alexander
+    orcid: "https://orcid.org/0000-0003-1578-8104"
+  - family-names: Mula
+    given-names: Olga
+    orcid: "https://orcid.org/0000-0002-3017-6598"
+repository-code: "https://github.com/searhein/smooth-sciml"
+license: GPL-3.0-only

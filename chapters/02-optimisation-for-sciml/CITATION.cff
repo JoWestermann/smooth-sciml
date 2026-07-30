@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this chapter's companion code, please cite it using this metadata."
+title: "Companion code for Chapter 2: Introduction to optimisation methods for training SciML models"
+type: software
+authors:
+  - family-names: Kopanicakova
+    given-names: Alena
+  - family-names: Riccietti
+    given-names: Elisa
+repository-code: "https://github.com/searhein/smooth-sciml"
+license: GPL-3.0-only

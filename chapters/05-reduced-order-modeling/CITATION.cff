@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this chapter's companion code, please cite it using this metadata."
+title: "Companion code for Chapter 5: Reduced order modeling and applications to inverse state estimation"
+type: software
+authors:
+  - family-names: Mula
+    given-names: Olga
+    orcid: "https://orcid.org/0000-0002-3017-6598"
+  - family-names: Somacal
+    given-names: Agustín
+repository-code: "https://github.com/searhein/smooth-sciml"
+license: GPL-3.0-only

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this chapter's companion code, please cite it using this metadata."
+title: "Companion code for Chapter 9: Generative models for scientific computing"
+type: software
+authors:
+  - family-names: Zepeda-Núñez
+    given-names: Leonardo
+repository-code: "https://github.com/searhein/smooth-sciml"
+license: GPL-3.0-only

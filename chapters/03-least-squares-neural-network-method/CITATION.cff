@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this chapter's companion code, please cite it using this metadata."
+title: "Companion code for Chapter 3: Least-squares neural network method for scalar hyperbolic partial differential equations"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Min
+  - family-names: Cai
+    given-names: Zhiqiang
+repository-code: "https://github.com/searhein/smooth-sciml"
+license: GPL-3.0-only

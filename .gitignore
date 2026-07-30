@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Editor-only planning and contributor material
+REPOSITORY_STRATEGY.md
+CONTRIBUTOR_INSTRUCTIONS.md
+GITHUB_SETTINGS_GUIDE.md
+
+# Local PDF extraction/rendering workspace
+tmp/

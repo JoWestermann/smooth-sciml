@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this chapter's companion code, please cite it using this metadata."
+title: "Companion code for Chapter 4: Domain decomposition for physics-informed neural networks"
+type: software
+authors:
+  - family-names: Dolean
+    given-names: Victorita
+    orcid: "https://orcid.org/0000-0002-5885-1903"
+  - family-names: Heinlein
+    given-names: Alexander
+    orcid: "https://orcid.org/0000-0003-1578-8104"
+  - family-names: Moseley
+    given-names: Ben
+repository-code: "https://github.com/searhein/smooth-sciml"
+license: GPL-3.0-only
