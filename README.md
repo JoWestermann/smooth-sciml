@@ -9,8 +9,10 @@ scientific machine learning (SciML). This repository collects reproducible
 code, notebooks, and supporting data for its nine educational chapters.
 
 > [!NOTE]
-> The book and this repository are works in progress. APIs, examples, and
-> directory contents may change before publication.
+> The book and this repository are works in progress. The chapter folders
+> currently contain documentation, dependency, and citation templates awaiting
+> author contributions; runnable examples have not yet been added. APIs,
+> examples, and directory contents may change before publication.
 
 ## Chapters
 
@@ -28,9 +30,10 @@ code, notebooks, and supporting data for its nine educational chapters.
 
 ## Using the examples
 
-Each chapter is self-contained. Start with its `README.md` for setup and
-execution instructions. Python dependencies are listed in the
-`requirements.txt` file within each chapter folder.
+Contributed examples should be self-contained within their chapter folder.
+Once code is available, start with the chapter’s `README.md` for setup and
+execution instructions. Its `requirements.txt` lists Python dependencies;
+these files currently contain placeholders awaiting author contributions.
 
 ## Citation
 

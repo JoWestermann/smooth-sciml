@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this chapter's companion code, please cite it using this metadata."
-title: "Companion code for Chapter 3: Least-squares neural network method for scalar hyperbolic partial differential equations"
+title: "Companion code for Chapter 3: Least-squares neural network (LSNN) method for scalar hyperbolic partial differential equations"
 type: software
 authors:
   - family-names: Liu
